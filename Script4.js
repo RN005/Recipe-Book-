@@ -1,23 +1,23 @@
 const recipes = [
     {
-        title: "Spaghetti Carbonara",
+        title: "Chole Bhature",
         ingredients: [
-            "200g spaghetti",
-            "100g pancetta",
-            "2 large eggs",
-            "50g pecorino cheese",
-            "50g parmesan cheese",
-            "Freshly ground black pepper",
-            "Salt"
+            "Chickpeas (Chole)",
+            "Onion",
+            "Tomatoes",
+            "Ginger Garlic Paste",
+            "Cumin Seeds",
+            "Corriander Powder",
+            "Garam Masala",
+            "All purpose flour"
         ],
         instructions: [
-            "Cook spaghetti according to package instructions.",
-            "Fry the pancetta until crisp.",
-            "Beat the eggs with the pecorino and parmesan cheese.",
-            "Toss the spaghetti with the pancetta and remove from heat.",
-            "Quickly mix in the egg and cheese mixture.",
-            "Serve immediately with extra cheese and pepper."
-        ]
+            " Soak 1 cup of chickpeas overnight. Pressure cook with water, salt, and a tea bag (optional) until soft..",
+            " Heat oil in a pan, add cumin seeds, and sauté chopped onions until golden. Add ginger-garlic paste and cook until fragrant ",
+            " Add pureed tomatoes, coriander powder, garam masala, and salt. Cook until the oil separates. Add the cooked chickpeas and simmer for 15-20 minutes",
+            " Mix 2 cups of all-purpose flour, 2 tablespoons of semolina, 1/2 cup yogurt, a pinch of baking powder, and salt. Knead into a soft dough using water Let it rest for 1 hour",
+            " Garnish the chole with coriander leaves and serve hot with the freshly fried bhature"
+        ],
     },
     {
         title: "Chicken Curry",
