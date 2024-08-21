@@ -42,7 +42,7 @@ h1 {
 }
 
 .recipe button {
-    background-color: #4CAF50;
+    background-color: #4cafad;
     color: white;
     border: none;
     padding: 8px 12px;
@@ -52,8 +52,9 @@ h1 {
 }
 
 .recipe button:hover {
-    background-color: #45a049;
+    background-color: #459da0;
 }
+
 
 .recipe .ingredients,
 .recipe .instructions {
@@ -68,3 +69,5 @@ h1 {
 .recipe ul li {
     margin-bottom: 5px;
 }
+
+
